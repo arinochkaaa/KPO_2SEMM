@@ -1,0 +1,7 @@
+﻿  ConvertCharToInt.cpp
+  lab_3.cpp
+  NumDays.cpp
+  Order.cpp
+D:\2 семм\КПО\лабораторные работы КПО\lab_03\lab_3\lab_3\Order.cpp(38,9): warning C4804: <=: небезопасное использование типа "bool" в операции
+  Создание кода...
+  lab_3.vcxproj -> D:\2 семм\КПО\лабораторные работы КПО\lab_03\lab_3\x64\Debug\lab_3.exe
